@@ -2,7 +2,9 @@ First simple project using Laravel 8 with laragon
 
 To use this project with Laragon:
 
-<p>Firstly, install Laragon< a href="https://laragon.org/" target="_blank"></p>
+<p>Firstly, install<a href="https://laragon.org/" target="_blank"> Laragon</p></a>
+<p>Run the server, create a new Laravel project and copy this file into the file's project</p>
+<p>While server running, you can use crudApp.test/contact to open the app</p>
 
 
 

@@ -4,7 +4,7 @@ To use this project with Laragon:
 
 <p>Firstly, install<a href="https://laragon.org/" target="_blank"> Laragon</p></a>
 <p>Run the server, create a new Laravel project and copy this file into the file's project</p>
-<p>While server running, you can use crudApp.test/contact to open the app</p>
+<p>While server running, you can use <strong>crudApp.test/contact</strong> to open the app</p>
 
 
 
